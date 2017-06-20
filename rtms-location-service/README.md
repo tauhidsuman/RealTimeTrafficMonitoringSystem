@@ -9,7 +9,7 @@ Key Components:
   Jackson: convert java object to/from JSON
   H2 database: in-memory database
 
-REST API:<br />
+REST API:
   HTTP GET: http://localhost:8080/locations/search/findByServiceType{?type,page,size,sort}
   HTTP GET: http://localhost:8080/locations/search/vin{?vin,page,size,sort}
   HTTP POST: http://localhost:8080/fleet -> upload car locations
