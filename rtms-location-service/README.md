@@ -1,11 +1,11 @@
 # Location Service
 
-""Description:""
+**Description:**
 
   Location service allows end user to upload their locations and look up car locations
 
 
-""Key Components:""
+**Key Components:**
 
   Spring Data Rest: provides rest interface with paging and sorting
   
@@ -16,7 +16,7 @@
   H2 database: in-memory database
 
 
-""REST API:""
+**REST API:**
 
   HTTP GET: http://localhost:8080/locations/search/findByServiceType{?type,page,size,sort}
   
@@ -31,7 +31,7 @@
     body: empty
 
 
-""Data model:""
+**Data model:**
 
   Location
   
