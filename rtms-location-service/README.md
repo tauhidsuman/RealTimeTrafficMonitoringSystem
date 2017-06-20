@@ -2,7 +2,7 @@
 
 Description:
 
-__Location service allows end user to upload their locations and look up car locations.
+_Location service allows end user to upload their locations and look up car locations
 
 
 Key Components:
