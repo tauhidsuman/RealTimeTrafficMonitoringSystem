@@ -1,28 +1,28 @@
 # Location Service
 
-Description:<br />
+Description:
   Location service allows end user to upload their locations and look up car locations.
 
-Key Components:<br />
-  Spring Data Rest: provides rest interface with paging and sorting<br />
-  Rest Hal Browser: provides an user interface to manage rest service<br />
-  Jackson: convert java object to/from JSON<br />
-  H2 database: in-memory database<br />
+Key Components:
+  Spring Data Rest: provides rest interface with paging and sorting
+  Rest Hal Browser: provides an user interface to manage rest service
+  Jackson: convert java object to/from JSON
+  H2 database: in-memory database
 
 REST API:<br />
-  HTTP GET: http://localhost:8080/locations/search/findByServiceType{?type,page,size,sort}<br />
-  HTTP GET: http://localhost:8080/locations/search/vin{?vin,page,size,sort}<br />
-  HTTP POST: http://localhost:8080/fleet -> upload car locations<br />
-    body: JSON file with car locations<br />
-  HTTP POST: http://localhost:8080/purge -> delete all car locations<br />
-    body: empty<br />
+  HTTP GET: http://localhost:8080/locations/search/findByServiceType{?type,page,size,sort}
+  HTTP GET: http://localhost:8080/locations/search/vin{?vin,page,size,sort}
+  HTTP POST: http://localhost:8080/fleet -> upload car locations
+    body: JSON file with car locations
+  HTTP POST: http://localhost:8080/purge -> delete all car locations
+    body: empty
 
-Data model:<br />
-  Location<br />
-    -id:Long<br />
-    -unitInfo:UnitInfo<br />
-    -unitFault:UnitFault<br />
-    -latitude:double<br />
-    -longitude:double<br />
-    ...<br />
+Data model:
+  Location
+    -id:Long
+    -unitInfo:UnitInfo
+    -unitFault:UnitFault
+    -latitude:double
+    -longitude:double
+    ...
   PS. use the @Embedded and @AttributeOverride to map an object rather than many attributes to columns
