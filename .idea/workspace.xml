@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eac6458e-7f05-4ab2-8d9d-23b83ee70d10" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fleet-location-ingest/README.md" afterPath="$PROJECT_DIR$/fleet-location-ingest/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fleet-location-service/README.md" afterPath="$PROJECT_DIR$/fleet-location-service/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -59,12 +59,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fleet-location-service/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="14">
                 <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="255">
+                <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -152,6 +165,7 @@
         <option value="$PROJECT_DIR$/fleet-location-simulator/README.md" />
         <option value="$PROJECT_DIR$/fleet-location-ingest/README.md" />
         <option value="$PROJECT_DIR$/fleet-location-service/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -739,12 +753,12 @@
       <workItem from="1497842731777" duration="5585000" />
       <workItem from="1498083212803" duration="745000" />
       <workItem from="1498084005423" duration="5325000" />
-      <workItem from="1498100891328" duration="3237000" />
+      <workItem from="1498100891328" duration="3374000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14892000" />
+    <option name="totallyTimeSpent" value="15029000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -790,13 +804,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rtms-location-updater/src/main/resources/application.yml" />
     <entry file="file://$PROJECT_DIR$/start-location-service.sh">
       <provider selected="true" editor-type-id="text-editor">
@@ -1229,6 +1236,17 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="14">
             <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
             <folding />
           </first_editor>
           <second_editor />
