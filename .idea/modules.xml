@@ -3,7 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RealTimeTrafficMonitoringSystem.iml" filepath="$PROJECT_DIR$/RealTimeTrafficMonitoringSystem.iml" />
-      <module fileurl="file://$PROJECT_DIR$/rtms-location-service/rtms-location-service.iml" filepath="$PROJECT_DIR$/rtms-location-service/rtms-location-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dashboard/dashboard.iml" filepath="$PROJECT_DIR$/dashboard/dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fleet-location-ingest/fleet-location-ingest.iml" filepath="$PROJECT_DIR$/fleet-location-ingest/fleet-location-ingest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fleet-location-service/fleet-location-service.iml" filepath="$PROJECT_DIR$/fleet-location-service/fleet-location-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fleet-location-simulator/fleet-location-simulator.iml" filepath="$PROJECT_DIR$/fleet-location-simulator/fleet-location-simulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fleet-location-updater/fleet-location-updater.iml" filepath="$PROJECT_DIR$/fleet-location-updater/fleet-location-updater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-location-service/service-location-service.iml" filepath="$PROJECT_DIR$/service-location-service/service-location-service.iml" />
     </modules>
   </component>
 </project>

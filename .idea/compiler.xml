@@ -6,12 +6,30 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="dashboard" />
+        <module name="fleet-location-ingest" />
+        <module name="fleet-location-service" />
+        <module name="fleet-location-simulator" />
+        <module name="fleet-location-updater" />
+        <module name="rtms-location-ingest" />
         <module name="rtms-location-service" />
+        <module name="rtms-location-simulator" />
+        <module name="rtms-location-updater" />
+        <module name="service-location-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="dashboard" target="1.8" />
+      <module name="fleet-location-ingest" target="1.8" />
+      <module name="fleet-location-service" target="1.8" />
+      <module name="fleet-location-simulator" target="1.8" />
+      <module name="fleet-location-updater" target="1.8" />
       <module name="RealTimeTrafficMonitoringSystem" target="1.8" />
+      <module name="rtms-location-ingest" target="1.8" />
       <module name="rtms-location-service" target="1.8" />
+      <module name="rtms-location-simulator" target="1.8" />
+      <module name="rtms-location-updater" target="1.8" />
+      <module name="service-location-service" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
