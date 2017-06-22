@@ -2,190 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eac6458e-7f05-4ab2-8d9d-23b83ee70d10" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/images/bcg_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/images/cancel_search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/images/copy of pivotal_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/images/copy of rentme_logo_ent_horiz_RGB.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/images/layers.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/images/markers-matte.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/images/markers-matte@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/images/markers-plain.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/images/markers-shadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/images/markers-shadow@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/images/markers-soft.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/images/markers-soft@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/images/pivotal_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/images/rentme_logo_ent_horiz_RGB.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/images/search_glyph.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/images/wrench.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/images/wrench@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_kryo_shaded_3_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_minlog_1_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_annotations_2_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_2_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_maps_google_maps_services_0_1_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_6_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_4_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_4_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_4_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_core_0_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_0_28.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_3_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_http_client_1_0_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_spatial4j_spatial4j_0_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp_okhttp_2_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp_okhttp_urlconnection_2_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_xjc_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_1_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_primitives_commons_primitives_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_micromata_jak_JavaAPIforKml_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_0_27_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_0_27_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_0_27_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_0_27_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_0_27_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_0_27_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_0_27_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_0_14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_8_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_sprockets_sprockets_2_6_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_2_1_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongo_java_driver_2_13_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_1_5_0_RC1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_1_5_0_RC1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_amqp_1_3_0_M5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cloud_connectors_1_3_0_M5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_mongodb_1_3_0_M5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_hateoas_1_3_0_M5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_3_0_M5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_websocket_1_3_0_M5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_cloudfoundry_connector_1_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_core_1_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_heroku_connector_1_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_localconfig_connector_1_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_1_1_0_M1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_spring_service_connector_1_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_hystrix_1_1_0_M1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_ribbon_1_1_0_M1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_zuul_1_1_0_M1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_1_0_0_M1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_binder_rabbit_1_0_0_M1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_binder_spi_1_0_0_M1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_codec_1_0_0_M1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_1_8_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_amqp_4_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_core_4_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_http_4_2_0_RC1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_jmx_4_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_1_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_4_2_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_2_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_2_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_websocket_4_2_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bootstrap_3_3_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_2_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_popup_overlay_1_7_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_leaflet_0_7_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/dashboard.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/application.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/banner.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/css/bootstrap-3.2.0.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/css/dashboard.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/css/font-awesome-animation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/css/leaflet.control.sidebar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/css/login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/css/visualsearch-datauri.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/css/visualsearch.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/js/bootstrap-3.2.0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/js/dashboard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/js/leaflet.control.sidebar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/js/leaflet.easybutton.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/js/leaflet.groupedlayercontrol.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/js/leaflet.markercluster.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/js/pages.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/js/sockjs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/js/stomp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/js/visualsearch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/static/js/vs-dependencies.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker-compose.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fleet-location-ingest/fleet-location-ingest.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fleet-location-service/fleet-location-service.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fleet-location-simulator/fleet-location-simulator.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fleet-location-updater/fleet-location-updater.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service-location-service/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service-location-service/service-location-service.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service-location-service/src/main/resources/application.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/start-dashboard.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/start-location-ingest.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/start-location-service.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/start-location-simulator.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/start-location-updater.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/start-service-location-service.sh" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rtms-location-service/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rtms-location-service/fleet.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rtms-location-service/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rtms-location-service/rtms-location-service.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rtms-location-service/src/main/java/rtms/locationService/LocationServiceApplication.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rtms-location-service/src/main/java/rtms/locationService/controller/BulkUploadController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rtms-location-service/src/main/java/rtms/locationService/model/FaultCode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rtms-location-service/src/main/java/rtms/locationService/model/Location.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rtms-location-service/src/main/java/rtms/locationService/model/LocationRepository.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rtms-location-service/src/main/java/rtms/locationService/model/UnitFault.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rtms-location-service/src/main/java/rtms/locationService/model/UnitInfo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rtms-location-service/target/classes/rtms/locationService/LocationServiceApplication.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rtms-location-service/target/classes/rtms/locationService/controller/BulkUploadController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rtms-location-service/target/classes/rtms/locationService/model/FaultCode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rtms-location-service/target/classes/rtms/locationService/model/Location$GpsStatus.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rtms-location-service/target/classes/rtms/locationService/model/Location$VehicleMovementType.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rtms-location-service/target/classes/rtms/locationService/model/Location.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rtms-location-service/target/classes/rtms/locationService/model/LocationRepository.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rtms-location-service/target/classes/rtms/locationService/model/UnitFault.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rtms-location-service/target/classes/rtms/locationService/model/UnitInfo.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fleet-location-simulator/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RealTimeTrafficMonitoringSystem.iml" afterPath="$PROJECT_DIR$/RealTimeTrafficMonitoringSystem.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fleet-location-simulator/src/main/java/demo/rest/LocationSimulatorRestApi.java" afterPath="$PROJECT_DIR$/fleet-location-simulator/src/main/java/demo/rest/LocationSimulatorRestApi.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -215,163 +34,15 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dashboard/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="start-service-location-service.sh" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/start-service-location-service.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="61" lean-forward="false" selection-start-line="0" selection-start-column="61" selection-end-line="0" selection-end-column="61" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service-location-service/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dashboard/src/main/resources/static/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="915">
-              <caret line="61" column="40" lean-forward="false" selection-start-line="61" selection-start-column="40" selection-end-line="61" selection-end-column="40" />
-              <folding>
-                <marker date="1476539600000" expanded="true" signature="2470:7305" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="2585:4093" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="2613:3923" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="2625:3911" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="2639:3477" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="2737:2866" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="2884:3017" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="3035:3170" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="3188:3323" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="3341:3462" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="3491:3898" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="3591:3730" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="3748:3883" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="4115:7296" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="4150:4480" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="4161:4257" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="4268:4360" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="4371:4467" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="4549:5759" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="4682:5743" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="4695:4890" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="4903:5089" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="5102:5304" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="5317:5517" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="5530:5728" ph="..." />
-                <marker date="1476539600000" expanded="false" signature="5827:5841" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="5842:6320" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="5978:6304" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="5991:6103" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="6116:6289" ph="..." />
-                <marker date="1476539600000" expanded="false" signature="6389:6403" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="6404:7287" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="6543:7271" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="6556:6714" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="6751:6946" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="6983:7100" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="7137:7256" ph="..." />
-                <marker date="1476539600000" expanded="true" signature="7314:7358" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dashboard.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dashboard/src/main/resources/static/js/dashboard.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3932">
-              <caret line="380" column="60" lean-forward="false" selection-start-line="380" selection-start-column="57" selection-end-line="380" selection-end-column="60" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <marker date="1476041772000" expanded="true" signature="329:335" ph="©" />
-                <marker date="1476041772000" expanded="true" signature="26220:26232" ph="..." />
-                <marker date="1476041772000" expanded="true" signature="26329:26335" ph="&amp;nbsp;" />
-                <marker date="1476041772000" expanded="true" signature="26335:26341" ph="&amp;nbsp;" />
-                <marker date="1476041772000" expanded="true" signature="26341:26347" ph="&amp;nbsp;" />
-                <marker date="1476041772000" expanded="true" signature="26347:26353" ph="&amp;nbsp;" />
-                <marker date="1476041772000" expanded="true" signature="26431:26444" ph="..." />
-                <marker date="1476041772000" expanded="true" signature="26458:26464" ph="&amp;nbsp;" />
-                <marker date="1476041772000" expanded="true" signature="26464:26470" ph="&amp;nbsp;" />
-                <marker date="1476041772000" expanded="true" signature="26522:26533" ph="..." />
-                <marker date="1476041772000" expanded="true" signature="26552:26558" ph="&amp;nbsp;" />
-                <marker date="1476041772000" expanded="true" signature="26558:26564" ph="&amp;nbsp;" />
-                <marker date="1476041772000" expanded="true" signature="26616:26629" ph="..." />
-                <marker date="1476041772000" expanded="true" signature="26648:26654" ph="&amp;nbsp;" />
-                <marker date="1476041772000" expanded="true" signature="26654:26660" ph="&amp;nbsp;" />
-                <marker date="1476041772000" expanded="true" signature="26712:26725" ph="..." />
-                <marker date="1476041772000" expanded="true" signature="26743:26749" ph="&amp;nbsp;" />
-                <marker date="1476041772000" expanded="true" signature="26749:26755" ph="&amp;nbsp;" />
-                <marker date="1476041772000" expanded="true" signature="26807:26817" ph="..." />
-                <marker date="1476041772000" expanded="true" signature="26832:26838" ph="&amp;nbsp;" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="start-eureka.sh" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/start-eureka.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FleetLocationUpdaterApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fleet-location-updater/src/main/java/demo/FleetLocationUpdaterApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dashboard/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-              <folding>
-                <marker date="1478472874000" expanded="true" signature="79:298" ph="zuul: &lt;1 key&gt;" />
-                <marker date="1478472874000" expanded="true" signature="87:298" ph="routes: &lt;2 keys&gt;" />
-                <marker date="1478472874000" expanded="true" signature="141:161" ph="/rtms-loc…service/**" />
-                <marker date="1478472874000" expanded="true" signature="173:194" ph="http://lo…lhost:9000" />
-                <marker date="1478472874000" expanded="true" signature="199:298" ph="service-l…on-service: &lt;2 keys&gt;" />
-                <marker date="1478472874000" expanded="true" signature="237:265" ph="/service-…service/**" />
-                <marker date="1478472874000" expanded="true" signature="277:298" ph="http://lo…lhost:9001" />
-              </folding>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fleet-location-simulator/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="135">
+                <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -392,6 +63,7 @@
       <find>ross</find>
       <find>fleet</find>
       <find>vehiclesIndex</find>
+      <find>ingest</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -451,6 +123,8 @@
         <option value="$PROJECT_DIR$/dashboard/src/main/resources/static/index.html" />
         <option value="$PROJECT_DIR$/dashboard/src/main/resources/static/js/dashboard.js" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/fleet-location-simulator/src/main/java/demo/rest/LocationSimulatorRestApi.java" />
+        <option value="$PROJECT_DIR$/fleet-location-simulator/README.md" />
       </list>
     </option>
   </component>
@@ -501,6 +175,216 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="RealTimeTrafficMonitoringSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RealTimeTrafficMonitoringSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RealTimeTrafficMonitoringSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fleet-location-simulator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RealTimeTrafficMonitoringSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RealTimeTrafficMonitoringSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fleet-location-simulator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RealTimeTrafficMonitoringSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RealTimeTrafficMonitoringSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fleet-location-simulator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RealTimeTrafficMonitoringSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RealTimeTrafficMonitoringSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fleet-location-simulator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RealTimeTrafficMonitoringSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RealTimeTrafficMonitoringSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fleet-location-simulator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RealTimeTrafficMonitoringSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RealTimeTrafficMonitoringSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fleet-location-ingest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RealTimeTrafficMonitoringSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RealTimeTrafficMonitoringSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fleet-location-ingest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RealTimeTrafficMonitoringSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RealTimeTrafficMonitoringSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fleet-location-ingest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RealTimeTrafficMonitoringSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RealTimeTrafficMonitoringSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fleet-location-ingest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1025,29 +909,30 @@
       <workItem from="1497842731777" duration="5585000" />
       <workItem from="1498083212803" duration="745000" />
       <workItem from="1498084005423" duration="5325000" />
-      <workItem from="1498100891328" duration="133000" />
+      <workItem from="1498100891328" duration="2139000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11788000" />
+    <option name="totallyTimeSpent" value="13794000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22970296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32871288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21671991" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32871288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2827476" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12353568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1075,26 +960,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/rtms-location-simulator/src/main/java/rtms/locationSimulator/service/impl/DefaultPositionService.java" />
-    <entry file="file://$PROJECT_DIR$/rtms-location-ingest/src/main/java/rtms.locationIngest/LocationIngestApplication.java" />
-    <entry file="file://$PROJECT_DIR$/rtms-location-ingest/src/main/java/rtms.locationIngest/VehiclePositionsSource.java" />
-    <entry file="file://$PROJECT_DIR$/rtms-location-ingest/src/main/resources/application.yml" />
-    <entry file="file://$PROJECT_DIR$/rtms-location-updater/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/rtms-location-updater/src/main/java/rtms/locationUpdater/LocationUpdaterApplication.java" />
-    <entry file="file://$PROJECT_DIR$/rtms-location-updater/src/main/java/rtms/locationUpdater/model/ServiceLocation.java" />
-    <entry file="file://$PROJECT_DIR$/rtms-location-updater/src/main/java/rtms/locationUpdater/web/package-info.java" />
-    <entry file="file://$PROJECT_DIR$/rtms-location-updater/src/main/java/rtms/locationUpdater/model/FaultCode.java" />
-    <entry file="file://$PROJECT_DIR$/rtms-location-updater/src/main/java/rtms/locationUpdater/model/Point.java" />
-    <entry file="file://$PROJECT_DIR$/rtms-location-updater/src/main/java/rtms/locationUpdater/model/VehicleStatus.java" />
-    <entry file="file://$PROJECT_DIR$/rtms-location-updater/src/main/java/rtms/locationUpdater/web/WebSocketApi.java" />
-    <entry file="file://$PROJECT_DIR$/rtms-location-updater/src/main/java/rtms/locationUpdater/model/CurrentPosition.java" />
-    <entry file="file://$PROJECT_DIR$/rtms-location-updater/src/main/java/rtms/locationUpdater/WebSocketConfig.java" />
-    <entry file="file://$PROJECT_DIR$/rtms-location-updater/src/main/java/rtms/locationUpdater/model/package-info.java" />
-    <entry file="file://$PROJECT_DIR$/rtms-location-updater/src/main/resources/public/stomp.js" />
-    <entry file="file://$PROJECT_DIR$/rtms-location-updater/src/main/resources/public/index.html" />
-    <entry file="file://$PROJECT_DIR$/rtms-location-updater/src/main/java/rtms/locationUpdater/service/ServiceLocationService.java" />
-    <entry file="file://$PROJECT_DIR$/rtms-location-updater/src/main/java/rtms/locationUpdater/service/impl/DefaultServiceLocationService.java" />
-    <entry file="file://$PROJECT_DIR$/rtms-location-service/upload-fleet.sh" />
     <entry file="file://$PROJECT_DIR$/rtms-location-updater/src/main/java/rtms/locationUpdater/LocationUpdaterSink.java" />
     <entry file="file://$PROJECT_DIR$/docker-compose.yml">
       <provider selected="true" editor-type-id="text-editor">
@@ -1303,7 +1168,7 @@
         <state relative-caret-position="-3932">
           <caret line="380" column="60" lean-forward="false" selection-start-line="380" selection-start-column="57" selection-end-line="380" selection-end-column="60" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
             <marker date="1476041772000" expanded="true" signature="329:335" ph="©" />
             <marker date="1476041772000" expanded="true" signature="26220:26232" ph="..." />
             <marker date="1476041772000" expanded="true" signature="26329:26335" ph="&amp;nbsp;" />
@@ -1349,16 +1214,184 @@
         <state relative-caret-position="180">
           <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+        <state relative-caret-position="1245">
+          <caret line="83" column="22" lean-forward="false" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="22" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fleet-location-simulator/src/main/java/demo/service/PositionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fleet-location-ingest/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fleet-location-ingest/src/main/java/demo/FleetLocationIngestApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fleet-location-simulator/src/main/java/demo/model/SimulatorFixture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fleet-location-simulator/src/main/java/demo/service/impl/DefaultPathService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="51" column="13" lean-forward="false" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/concurrent/Future.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="95" column="17" lean-forward="false" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fleet-location-ingest/src/main/java/demo/VehiclePositionsSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="36" column="32" lean-forward="false" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fleet-location-simulator/src/main/resources/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="34" column="31" lean-forward="false" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fleet-location-simulator/src/main/java/demo/GpsSimulatorApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="38" column="11" lean-forward="true" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fleet-location-simulator/src/main/java/demo/task/GpsSimulatorInstance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="30" column="16" lean-forward="false" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fleet-location-simulator/src/main/java/demo/task/GpsSimulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="46" column="36" lean-forward="true" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fleet-location-simulator/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="71" column="32" lean-forward="false" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fleet-location-simulator/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fleet-location-simulator/src/main/java/demo/service/GpsSimulatorFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="28" column="29" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fleet-location-simulator/src/main/java/demo/service/impl/DefaultGpsSimulatorFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="65" column="48" lean-forward="true" selection-start-line="65" selection-start-column="48" selection-end-line="65" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fleet-location-simulator/src/main/java/demo/service/PathService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fleet-location-simulator/src/main/java/demo/rest/LocationSimulatorRestApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-878">
+          <caret line="46" column="13" lean-forward="false" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fleet-location-simulator/src/main/resources/fixture.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fleet-location-simulator/src/main/resources/directions.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fleet-location-simulator/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

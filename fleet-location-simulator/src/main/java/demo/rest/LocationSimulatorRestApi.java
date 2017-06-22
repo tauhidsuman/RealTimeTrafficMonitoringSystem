@@ -60,8 +60,11 @@ public class LocationSimulatorRestApi {
 
     private Map<Long, GpsSimulatorInstance> taskFutures = new HashMap<>();
 
+    // start simulation
     @RequestMapping("/dc")
     public List<GpsSimulatorInstance> dc(HttpServletRequest request) {
+        // get gpsSimulatorRequests
+        // fixture is a bunch of cars
         final SimulatorFixture fixture = this.pathService.loadSimulatorFixture();
 
         final List<GpsSimulatorInstance> instances = new ArrayList<>();
@@ -70,12 +73,13 @@ public class LocationSimulatorRestApi {
         final Set<Long> instanceIds = new HashSet<>(taskFutures.keySet());
 
         for (GpsSimulatorRequest gpsSimulatorRequest : fixture.getGpsSimulatorRequests()) {
-
+            // set up gpsSimulator based on the gpsSimulatorRequest
             final GpsSimulator gpsSimulator = gpsSimulatorFactory.prepareGpsSimulator(gpsSimulatorRequest);
             lookAtPoints.add(gpsSimulator.getStartPoint());
             instanceIds.add(gpsSimulator.getId());
 
             final Future<?> future = taskExecutor.submit(gpsSimulator);
+            // each car instance is implemented by one thread
             final GpsSimulatorInstance instance = new GpsSimulatorInstance(gpsSimulator.getId(), gpsSimulator, future);
             taskFutures.put(gpsSimulator.getId(), instance);
             instances.add(instance);
