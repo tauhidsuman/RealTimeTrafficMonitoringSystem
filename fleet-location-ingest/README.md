@@ -1,17 +1,13 @@
-Service Location Ingest
-==========================
+Service Location Ingest (message producer)
 
+**key components**
+1. RabbitMQ
 
-## Requirements
-
-* Java 8
-* Maven
-
-## REST Api
+**REST API**
 
 * POST /locations
 
-## Rabbit
+**RabbitMQ**
 
 You can inspect the messages being send to RabbitMQ using it Dashboard application:
 
