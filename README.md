@@ -16,4 +16,5 @@
 3. Click run simulation
 
 ##Architecture
+
 ![Alt text](https://raw.githubusercontent.com/Caden94/RealTimeTrafficMonitoringSystem/master/rtms_architecture.png "System Architecture")
