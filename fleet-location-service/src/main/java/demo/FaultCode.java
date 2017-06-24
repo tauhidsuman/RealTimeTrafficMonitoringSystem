@@ -24,6 +24,8 @@ import lombok.RequiredArgsConstructor;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 
+import java.util.HashMap;
+
 @JsonInclude(JsonInclude.Include.NON_NULL)
 @Data
 @Embeddable
