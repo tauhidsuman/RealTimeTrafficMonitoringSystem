@@ -35,10 +35,10 @@ import demo.service.ServiceLocationService;
  *
  */
 @MessageEndpoint
-@EnableBinding(Sink.class)
+@EnableBinding(Sink.class) // Sink defined this class is used to receive message
 public class FleetLocationUpdaterSink {
 
-	@Autowired
+	@Autowired // web socket
 	private SimpMessagingTemplate template;
 
 	@Autowired
@@ -47,14 +47,14 @@ public class FleetLocationUpdaterSink {
 	@Autowired
 	private ServiceLocationService serviceLocationService;
 
-	@ServiceActivator(inputChannel = Sink.INPUT)
+	@ServiceActivator(inputChannel = Sink.INPUT) // Indicates that a method is capable of handling a message or message payload.
 	public void updateLocationaddServiceLocations(String input) throws Exception {
 
-		CurrentPosition payload = this.objectMapper.readValue(input, CurrentPosition.class);
+		CurrentPosition payload = this.objectMapper.readValue(input, CurrentPosition.class); // convert json string to the object
 
 //		serviceLocationService.updateServiceLocations(payload);
 
-		this.template.convertAndSend("/topic/vehicles", payload);
+		this.template.convertAndSend("/topic/vehicles", payload); // send message to the frond end
 	}
 
 }

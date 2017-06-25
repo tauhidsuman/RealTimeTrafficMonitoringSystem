@@ -79,6 +79,7 @@
 
 		Stomp.WebSocketClass = SockJS;
 		var url = window.location.protocol + '//' + window.location.host + '/stomp';
+		// define the queue name
 		var queueName = '/queue/vehicles';
 		var ws = new SockJS(url);
 		var client = Stomp.over(ws);

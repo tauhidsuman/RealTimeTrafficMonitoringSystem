@@ -26,16 +26,16 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-
+// define this class as a message source for the massage queue
 @EnableBinding(Source.class)
 @RestController
 public class VehiclePositionsSource {
-
-    @Autowired
-    private MessageChannel output;
+    @Autowired // output Bean is initialized by Spring Boot when you import spring-cloud-stream-binder-rabbit
+    private MessageChannel output; // the output channel is defined in the application file cloud e.g. stream.bindings.output = vehicles
 
     @RequestMapping(path = "/api/locations", method = RequestMethod.POST)
     public void locations(@RequestBody String positionInfo) {
+        // build the message based on the request body and send to the message channel
         this.output.send(MessageBuilder.withPayload(positionInfo).build());
     }
 

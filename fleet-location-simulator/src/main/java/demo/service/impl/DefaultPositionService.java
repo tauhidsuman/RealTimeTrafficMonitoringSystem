@@ -51,6 +51,7 @@ public class DefaultPositionService implements PositionService {
 //        }
 
         if (sendPositionsToIngestionService) {
+            // send the location to the producer
             this.restTemplate.postForLocation(fleetLocationIngest + "/api/locations", currentPosition);
         }
 
