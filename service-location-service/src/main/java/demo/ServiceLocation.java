@@ -35,7 +35,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 @JsonInclude(JsonInclude.Include.NON_EMPTY)
 @Data
 @RequiredArgsConstructor(onConstructor = @__(@PersistenceConstructor))
-@Document
+@Document // Identifies a domain object to be persisted to MongoDB.
 public class ServiceLocation {
 
     @Id

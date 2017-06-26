@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="dashboard" />
+        <module name="fleet-eureka-server" />
+        <module name="fleet-hystrix-dashboard" />
         <module name="fleet-location-ingest" />
         <module name="fleet-location-service" />
         <module name="fleet-location-simulator" />
@@ -20,10 +22,13 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="dashboard" target="1.8" />
+      <module name="fleet-eureka-server" target="1.8" />
+      <module name="fleet-hystrix-dashboard" target="1.6" />
       <module name="fleet-location-ingest" target="1.8" />
       <module name="fleet-location-service" target="1.8" />
       <module name="fleet-location-simulator" target="1.8" />
       <module name="fleet-location-updater" target="1.8" />
+      <module name="platform" target="1.8" />
       <module name="RealTimeTrafficMonitoringSystem" target="1.8" />
       <module name="rtms-location-ingest" target="1.8" />
       <module name="rtms-location-service" target="1.8" />

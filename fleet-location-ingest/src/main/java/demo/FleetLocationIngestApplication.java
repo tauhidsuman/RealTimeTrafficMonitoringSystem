@@ -17,9 +17,11 @@ package demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 @SpringBootApplication
-//@EnableDiscoveryClient
+// allows eureka server to find the fleet-location-ingest service
+@EnableDiscoveryClient
 public class FleetLocationIngestApplication {
 
     public static void main(String[] args) throws Exception {

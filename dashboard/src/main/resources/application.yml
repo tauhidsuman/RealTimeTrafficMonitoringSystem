@@ -1,6 +1,9 @@
 spring:
   application:
     name: dashboard
+  main:
+    show-banner: false
+
 stomp:
   url: localhost:9007/stomp
 

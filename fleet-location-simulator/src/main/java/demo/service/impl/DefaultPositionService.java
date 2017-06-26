@@ -12,46 +12,46 @@
  */
 package demo.service.impl;
 
+import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 import demo.model.CurrentPosition;
 import demo.service.PositionService;
+import lombok.extern.slf4j.Slf4j;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
 
 @Service
+@Slf4j // Causes lombok to generate a logger field.
 public class DefaultPositionService implements PositionService {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(DefaultPositionService.class);
 
-//    @Autowired
-//    private KmlService kmlService;
 
-//    @Autowired
+    @Autowired
 //    @LoadBalanced
-    private RestTemplate restTemplate = new RestTemplate();
+    private RestTemplate restTemplate;
 
-    @Value("${com.ross.fleet.location.ingest}")
-    private String fleetLocationIngest;
+//    deprecated when using eureka
+//    @Value("${com.ross.fleet.location.ingest}")
+//    private String fleetLocationIngest;
 
     public DefaultPositionService() {
         super();
     }
 
-    //    @HystrixCommand(fallbackMethod = "processPositionInfoFallback")
+    @HystrixCommand(fallbackMethod = "processPositionInfoFallback")
+    // execute processPositionInfoFallback method when processPositionInfo failed
     @Override
     public void processPositionInfo(long id, CurrentPosition currentPosition, boolean exportPositionsToKml,
                                     boolean sendPositionsToIngestionService) {
 
-//        if (exportPositionsToKml) {
-//            this.kmlService.updatePosition(id, currentPosition);
-//        }
-
+        String fleetLocationIngest = "http://fleet-location-ingest";
         if (sendPositionsToIngestionService) {
             // send the location to the producer
+            log.info("Simulator is calling ingest REST API");
             this.restTemplate.postForLocation(fleetLocationIngest + "/api/locations", currentPosition);
         }
 
