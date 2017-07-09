@@ -28,6 +28,7 @@ import org.springframework.data.rest.core.annotation.RestResource;
  *
  */
 @RepositoryRestResource(collectionResourceRel = "locations")
+// The rel value to use when generating links to the collection resource.
 public interface ServiceLocationRepository
 extends PagingAndSortingRepository<ServiceLocation, Long> {
 

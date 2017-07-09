@@ -21,6 +21,8 @@ import org.springframework.cloud.client.circuitbreaker.EnableCircuitBreaker;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import org.springframework.scheduling.annotation.EnableScheduling;
 
+import java.util.PriorityQueue;
+
 
 @SpringBootApplication
 @EnableDiscoveryClient // allows eureka server to find it
